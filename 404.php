@@ -4,7 +4,7 @@
 		<div class="error404">
 			<div class="content">
 				<i class="iconfont icon-404"></i>
-				<p>404，未找到页面...</p>
+				<p>404，NOT FOUND...</p>
 				<a href="<?php bloginfo('url'); ?>">返回首页</a>
 			</div>
 		</div>
