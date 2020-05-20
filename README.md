@@ -1,7 +1,9 @@
 # Autumn
 WordPress Free Personal Blog Theme
 
-Demo: https://zhongyuyu.cn
+About: https://zhongyuyu.cn
+
+Contact: cao@izh.me
 
 # Contribute!
 
