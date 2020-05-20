@@ -1,7 +1,7 @@
 <?php
 
 date_default_timezone_set('PRC');
-define('THEME_VERSION', 'Autumn 1.2');
+define('THEME_VERSION', 'Autumn 1.0');
 if ( !defined( 'THEME_DIR' ) ) {
 	define( 'THEME_DIR', get_template_directory() );
 }
